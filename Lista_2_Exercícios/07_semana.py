@@ -1,3 +1,5 @@
+# Matheus Ferreira
+
 dia = input("Indique o dia da semana: ")
 
 # Função Fim de semana

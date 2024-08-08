@@ -1,12 +1,14 @@
+# Matheus Ferreira
+
 comida = int(input("Indique a opção desejada: "))
 
 # Seleção de opções
 match comida:
     case 1:
-        print("Pizza. ")
+        print("Bolo. ")
     case 2:
-        print("Hamburguer. ")
+        print("Pizza. ")
     case 3:
-        print("Salada. ")
+        print("Refrigerante. ")
     case _:
         print("Opção inválida!")

@@ -1,3 +1,5 @@
+# Matheus Ferreira
+
 # Variáveis
 nome = input("Informe o seu nome: ")
 idade = int(input("Informe a sua idade: "))
